@@ -1,0 +1,15 @@
+lxml
+pypyodbc
+pytest
+pytz
+robotframework
+records
+requests
+# requests-negotiate-sspi
+signxml
+sqlalchemy
+suds-jurko
+
+tablib
+tox
+jupyter
